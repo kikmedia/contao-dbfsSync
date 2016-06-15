@@ -1,0 +1,1 @@
+= Cronjob settings for Contao DB file system synchronisation
